@@ -8,7 +8,7 @@ Search by CPF, CNPJ, or Both: Users can choose whether to extract data based on 
 CSV File Creation: The extracted data is saved to a CSV file, making it easy to view and analyze in Excel.
 
 <h2>How to Use</h2>
-<i>git clone https://github.com/Gabriel-Inoveh/Leitor-de-XML.git</i>
+<i>git clone https://github.com/Gabriel-6/XML-Reader.git</i>
 
 <h2>Install Dependencies:</h2>
 <i>pip install -r requirements.txt</i>
