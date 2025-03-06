@@ -1,7 +1,7 @@
 import os
 from tkinter import filedialog as fd
 from tkinter import messagebox
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 
 lista = set()
 
